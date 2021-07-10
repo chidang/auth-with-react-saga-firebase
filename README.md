@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Screenshots
+
+![Adding ingredients](https://github.com/chidang/auth-with-react-saga-firebase/blob/master/public/adding-ingredients.png "Adding ingredients")
+
+![Ordering burger](https://github.com/chidang/auth-with-react-saga-firebase/blob/master/public/order-burger.png "Ordering burger")
+
+![Orders](https://github.com/chidang/auth-with-react-saga-firebase/blob/master/public/orders.png "Orders")
+
+![Sign-up](https://github.com/chidang/auth-with-react-saga-firebase/blob/master/public/sign-up.png "Sign-up")
